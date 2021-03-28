@@ -25,6 +25,7 @@ authorized university employees are the only ones delivering food on campus for 
 INTRODUCTION:
 
 DESCRIPTION:
+After Corona hit, food delivery services practically became an essential,
 
 BUSINESS RULES:
 
