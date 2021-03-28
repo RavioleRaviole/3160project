@@ -25,3 +25,17 @@ authorized university employees are the only ones delivering food on campus for 
 INTRODUCTION:
 
 DESCRIPTION:
+
+BUSINESS RULES:
+
+EERD:
+
+MYSQL QUERIES:
+
+STORED PROCEDURE:
+
+WEB/APP IMPLEMENTATION (or DESCRIPTION OF FUTURE WORK):
+
+MYSQL DUMP:
+
+PROJECT VIDEO:
