@@ -14,11 +14,11 @@ ITSC 3135, GROUP 5
 
   **Business Rules**
 
-*Customers have the choice to rate a driver after a completed order for up to three days
-*Customers will be able to view the rating of the driver delivering to them
-*Customers will be able to rate the driver and restaurant individually
-*Customers will be able to view the ratings of a restaurant
-*Low ratings (< 2 stars) will be reviewed by administrator
+* Customers have the choice to rate a driver after a completed order for up to three days
+* Customers will be able to view the rating of the driver delivering to them
+* Customers will be able to rate the driver and restaurant individually
+* Customers will be able to view the ratings of a restaurant
+* Low ratings (< 2 stars) will be reviewed by administrator
   
   **EERD (full database)**
 
