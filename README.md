@@ -22,6 +22,7 @@ ITSC 3135, GROUP 5
   
   **EERD (full database)**
 ![EERD with rating system](EERD_V2.png)
+
   **MySQL Queries**
 
   **Stored Procedure**
