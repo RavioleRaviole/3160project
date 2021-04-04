@@ -21,7 +21,7 @@ ITSC 3135, GROUP 5
 * Low ratings (< 2 stars) will be reviewed by administrator
   
   **EERD (full database)**
-
+![EERD with rating system](EERD_V2.png)
   **MySQL Queries**
 
   **Stored Procedure**
