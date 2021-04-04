@@ -6,7 +6,7 @@ ITSC 3135, GROUP 5
       Team: Thomas Bilbao, Nanayaw Boakye, Daniel Camacho, Benson Huynh, and Isabella Ochsner
       
       Project Description: In this project students are to understand a test database for a campus controlled food delivery service similar to craveoncampus.com. 
-      Students will then enhance the database with a rating system for both resturants and delivery drivers.
+Students will then enhance the database with a rating system for both resturants and delivery drivers.
 
 
  **Use Case for Rating System**
