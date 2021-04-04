@@ -3,7 +3,7 @@ ITSC 3135, GROUP 5
 
  **Introduction (Team, Project Description)**
 
- **Use Case for Rating System **
+ **Use Case for Rating System**
   
 ![Image of Use case for rating system](https://github.com/RavioleRaviole/3160project/blob/main/Use%20Case%20for%20Rating%20System.png)
 
