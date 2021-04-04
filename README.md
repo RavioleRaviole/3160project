@@ -2,10 +2,10 @@
 
 NAME:
 
-Thomas Bilbao
-Nanayaw Boakye
-Daniel Camacho
-Benson Huynh
+Thomas Bilbao,
+Nanayaw Boakye,
+Daniel Camacho,
+Benson Huynh,
 Isabella Ochsner
 
 OVERVIEW:
