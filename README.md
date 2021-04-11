@@ -30,5 +30,7 @@ ITSC 3135, GROUP 5
   **Web/App Implementation (Optional) or Description of Future Work**
 
   **MySQL dump**
+     
+   ![TeamDump.sql]
 
   **Project Video**
