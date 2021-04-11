@@ -29,8 +29,7 @@ ITSC 3135, GROUP 5
 
   **Web/App Implementation (Optional) or Description of Future Work**
 
-  **MySQL dump**
+  [**MySQL dump**](https://github.com/RavioleRaviole/3160project/blob/main/TeamDump.sql)
      
-   ![TeamDump.sql]
-
+   
   **Project Video**
