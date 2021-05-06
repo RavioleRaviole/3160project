@@ -25,8 +25,11 @@ ITSC 3135, GROUP 5
 
   **MySQL Queries**
 
-  **Stored Procedure**
-  <img src="stored_procedure.JPG" alt="Picture of a stored procedure in SQL">
+  
+ **Stored Procedure**
+ 
+<img src="stored_procedure.JPG" alt="Picture of a stored procedure in SQL">
+  
   **Web/App Implementation (Optional) or Description of Future Work**
 
   [**MySQL dump**](https://github.com/RavioleRaviole/3160project/blob/main/TeamDump.sql)
